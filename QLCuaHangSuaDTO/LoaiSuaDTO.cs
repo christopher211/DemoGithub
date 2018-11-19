@@ -11,5 +11,7 @@ namespace QLCuaHangSuaDTO
       public int MaLoai {get;set;}
       public string TenLoai {get;set;}
       public int TrangThai {get;set;}
+
+        public int ID;
     }
 }
