@@ -1,0 +1,36 @@
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaBUS.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDAO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaBUS\obj\Debug\QLCuaHangSuaBUS.pdb

@@ -1,0 +1,20 @@
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.pdb
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.csprojResolveAssemblyReference.cache
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.dll
+c:\users\sv\documents\visual studio 2013\Projects\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan8\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan9\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaDTO\bin\Debug\QLCuaHangSuaDTO.pdb
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.csprojResolveAssemblyReference.cache
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.dll
+E:\Le Viet Hoang Nguyen\LTWNC\Tuan10\PMC\QLCuaHangSua\QLCuaHangSuaDTO\obj\Debug\QLCuaHangSuaDTO.pdb
